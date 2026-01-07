@@ -1,0 +1,12 @@
+[book]
+authors = ["Michele"]
+language = "en"
+multilingual = false
+src = "src"
+title = "presentation"
+
+
+[preprocessor.plantuml]
+plantuml-cmd = "http://localhost:8080"
+
+[preprocessor.chapter-list]
