@@ -9,4 +9,5 @@
   - [Electrical drawings](./chapter_42.md)
   - [Calculations](./chapter_43.md)
   - [Purchase list](./chapter_44.md)
+  - [Synchronization port](./chapter_45.md)
 
