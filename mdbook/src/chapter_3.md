@@ -2,6 +2,18 @@
 
 ## Fisrt test made: compressing
 
+
+<video controls src="compression test.mp4" width="350"></video>
+
+Original sample: 
+
+<img src="primary sample.jpeg" width="350">
+
+regular shape samples: 
+
+<img src="regular shape samples.jpeg" width="350">
+
+
 Process:​
 - Pressure (of the press) between 2 - 6,5 bar ​
 - Time pressed: 20 sec​
@@ -18,6 +30,14 @@ Learning outcomes:​
 
 
 ## Second test made: rolling
+
+<video controls src="rolling test.mp4" width="350"></video>
+
+sample:
+
+
+<img src="WhatsApp Image 2026-01-08 at 10.15.27.jpeg" width="550" height="350">
+
 
 Process:​
 - Manual rolling​
