@@ -17,3 +17,11 @@
 
 # Infrared lamp
 ![alt text](image-1.png)
+
+# PLC
+![alt text](cx2020.png)
+The budget friendly beckhoff cx2020n031 is chosen
+manual:
+https://download.beckhoff.com/download/document/ipc/embedded-pc/embedded-pc-cx/cx2000_en.pdf
+buy for 350 euros:
+https://nl.wiautomation.com/beckhoff/plc-systems/other/cx2020n031
