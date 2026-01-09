@@ -13,7 +13,6 @@ The semi-finished product needs to be **automatically transported to the storage
 The machine needs a user manual and cleaning instructions.|x|-|-|	 	 
 The machine  has a **continuous output**.|x|-|-|
 The machine must be able to process thermoplastics with glass fiber or carbon fiber with a length of **15 +- 5 mm**.|x|-|-| 	
-The machine must process thermoplastic materials in such a way that at least 90% of the fibers retain their original length throughout the operation.|-|x|-|
 The price is a maximum of **500 euros**.|-|-|x|
 The machine makes plates with at least a thickness **consistency of max  +- 0,5 mm** |-|x|-| 	 
 90% or more of the fibers need to stay at the original length.|-|x|-|	 
