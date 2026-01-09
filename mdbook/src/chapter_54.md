@@ -11,12 +11,17 @@
 | 8    | ethercatmotordriver+motor  | 1           | 400W     | 146,95    |
 | 9    | ball and screw system      | 1           |          | 85        |
 | 10   | gearbox                    | 1           | 50:1     | 135       |
+| 11   | plc power supply unit      | 1           |          | 260       |
 
 ## PLC
 The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
 buy: https://nl.wiautomation.com/beckhoff/plc-systems/other/cx2020n031
 manual: https://download.beckhoff.com/download/document/ipc/embedded-pc/embedded-pc-cx/cx2000_en.pdf 
 ![alt text](cx2020.png)
+
+## PLC power supply unit
+buy: https://nl.wiautomation.com/beckhoff/drives-motors-circuits-protection/other/cx11000004?utm_source=google&utm_medium=cpc&utm_campaign=NL_pmax_new_insert_3&gad_source=1&gad_campaignid=17189756525&gbraid=0AAAAAC2XDKDSmaqWbzLc93MQS6u9EUWdW&gclid=CjwKCAiA64LLBhBhEiwA-PxguwLlw7hR53b6JfBEIkOmBj62bY5UED-ydgeej-9V41oZY-PyXwrrixoC-GoQAvD_BwE
+![alt text](CX1100_0004-1.png)
 
 ## Linear rails
 ![alt text](image.png)
