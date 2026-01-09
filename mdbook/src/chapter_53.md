@@ -25,5 +25,5 @@ Data out of our samples:
 ![alt text](<Outcomes.jpg>)
 
 ## motor calculations
-![alt text](motor_calc.jpg>)
+![alt text](<motor_calc.png>)
 
