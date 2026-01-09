@@ -9,6 +9,7 @@
 | 6    | Infrared Lamp              | 1           | 1-2 kW   | 140       |
 | 7    | beckhoff plc cx2020n031    | 1           | -        | 350       |
 | 8    | ethercatmotordriver+motor  | 1           | 400W     | 146,95    |
+| 9    | ball and screw system      | 1           |          | ......    |
 
 ## PLC
 The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
