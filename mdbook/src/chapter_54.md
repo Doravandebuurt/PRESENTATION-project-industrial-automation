@@ -10,6 +10,7 @@
 | 7    | beckhoff plc cx2020n031    | 1           | -        | 350       |
 | 8    | ethercatmotordriver+motor  | 1           | 400W     | 146,95    |
 | 9    | ball and screw system      | 1           |          | 85        |
+| 10   | gearbox                    | 1           | 50:1     | 135       |
 
 ## PLC
 The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
@@ -31,6 +32,10 @@ buy: https://vicedeal.com/products/set-van-antibacklash-kogelomloopspindel-500-m
 datasheet: 
 https://www.handsontec.com/dataspecs/linear%20motion/Ball%20Screw-Kit-1605.pdf 
 ![alt text](ballscrew.png)
+
+## gear box
+buy: https://www.js-technik.nl/cmrv030-iec56-i-50-wormwielreductor/CSG03050050M?gad_source=1&gad_campaignid=22886737617&gbraid=0AAAABA-V4GaDwQ7RFuKRbWOin_9_wPcTJ&gclid=CjwKCAiA64LLBhBhEiwA-PxguztGo7fx0Px1IkpCeZubuJHppO6NXNLDfXbvEmRgFM-XFdW8pcEigxoCkGsQAvD_BwE
+![alt text](gearbox.png)
 
 ## Infrared lamp
 ![alt text](image-1.png)
