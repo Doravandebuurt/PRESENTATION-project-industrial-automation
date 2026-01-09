@@ -26,6 +26,7 @@ buy: https://nl.wiautomation.com/beckhoff/drives-motors-circuits-protection/othe
 
 ## PLC i/o modules
 buy: https://nl.wiautomation.com/beckhoff/modules/el2022?utm_source=google&utm_medium=cpc&utm_campaign=NL_pmax_new_insert_3&gad_source=1&gad_campaignid=17189756525&gbraid=0AAAAAC2XDKDSmaqWbzLc93MQS6u9EUWdW&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu-lRBKdN9-0jg-BCkwosek_o_YGWVbomDAx0t0C5MQO1N361DWIsfhoCCPEQAvD_BwE
+![alt text](IO.png)
 
 ## Linear rails
 ![alt text](image.png)
