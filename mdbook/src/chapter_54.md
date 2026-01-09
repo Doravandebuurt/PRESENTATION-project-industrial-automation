@@ -13,6 +13,7 @@
 | 10   | gearbox                    | 1           | 50:1     | 135       |
 | 11   | plc power supply unit      | 1           |          | 260       |
 | 12   | plc i/o modules            | 4           |          | 4x35      |
+| 13   |24V DC TRAFO                | 1           |          | 28        |
 
 ## PLC
 The budget friendly beckhoff plc cx2020n031, can be used as ethercatmaster and can be programmed with twincat.
@@ -27,6 +28,9 @@ buy: https://nl.wiautomation.com/beckhoff/drives-motors-circuits-protection/othe
 ## PLC i/o modules
 buy: https://nl.wiautomation.com/beckhoff/modules/el2022?utm_source=google&utm_medium=cpc&utm_campaign=NL_pmax_new_insert_3&gad_source=1&gad_campaignid=17189756525&gbraid=0AAAAAC2XDKDSmaqWbzLc93MQS6u9EUWdW&gclid=CjwKCAiA64LLBhBhEiwA-Pxgu-lRBKdN9-0jg-BCkwosek_o_YGWVbomDAx0t0C5MQO1N361DWIsfhoCCPEQAvD_BwE
 ![alt text](IO.png)
+
+## 24V TRAFO
+![alt text](24VTJE.png)
 
 ## Linear rails
 ![alt text](image.png)
